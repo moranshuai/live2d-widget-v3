@@ -1,12 +1,10 @@
 {
     "models": [
-        ["Mao", "Rice", "Hiyori", "Haru"],
-        ["Natori", "Mark"],
-        ["Wanko"]
+        ["阿库露_vts"],
+        ["符玄"]
     ],
     "messages": [
-        ["你好，我是Mao", "你好，我是Rice", "你好，我是Hiyori", "你好，我是Haru"],
-        ["你好，我是Naotri", "你好，我是Mark"],
-        ["汪汪，我是Wanko"]
+        "你干嘛哈哈哟！！！",
+        "你好，这里是符玄！"
     ]
 }
